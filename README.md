@@ -11,7 +11,7 @@ To provide insights into delivery times and their influencing factors (such as w
 Tableau Public Dashboard: https://public.tableau.com/app/profile/libing.gu/viz/OptiDeliverE-commerceDeliveryTimeAnalysis/E-commerceDeliveryTimeAnalysisandPrediction?publish=yes
 
 ## Workflow🌪️
-Workflow.png
+![Workflow](Workflow.png)
 
 ## Objective🎯
 The goal of this project is to develop a predictive model that uses historical order data along with external factors such as weather conditions and public holidays to address the issue of unpredictable delivery times, thereby enhancing customer satisfaction and operational efficiency.
