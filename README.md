@@ -17,6 +17,7 @@ Tableau Public Dashboard: https://public.tableau.com/app/profile/libing.gu/viz/O
 The goal of this project is to develop a predictive model that uses historical order data along with external factors such as weather conditions and public holidays to address the issue of unpredictable delivery times, thereby enhancing customer satisfaction and operational efficiency.
 
 ## Models Evaluated⚖️
+- SVM: be dropped
 - Logistic Regression
 - Decision Tree
 - K-Nearest Neighbors (KNN)
