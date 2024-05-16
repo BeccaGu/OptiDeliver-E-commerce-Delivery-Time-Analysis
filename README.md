@@ -1,6 +1,4 @@
 # OptiDeliver: Machine Learning for Enhanced Delivery Predictions🚛📦🌧️ 
-
-## Project Overview💜
 This project leverages machine learning to enhance delivery time predictions within Brazil's rapidly growing e-commerce sector, aiming to improve customer satisfaction by providing more accurate delivery estimates. Utilizing a comprehensive dataset from Olist, Brazil's largest online marketplace, this study integrates various data types including customer details, order specifics, product information, and geolocation, enhanced with external weather and distance data.
 
 ## Visualization & Insight in Tableau💐
