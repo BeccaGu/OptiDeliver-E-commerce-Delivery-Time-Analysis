@@ -14,7 +14,7 @@ Tableau Public Dashboard: https://public.tableau.com/app/profile/libing.gu/viz/O
 
 ## Workflow&Result🌪️
 ![Workflow_Result](Workflow_Result.png)
-Please check the file OptiDeliver_Code.ipynb above. You can see all the code and the results.
+Please check the file **OptiDeliver_Code.ipynb**, you can see all the code and the results.
 
 ## Acknowledgments🙏
 Appreciation to Silvia Xie, Evelyn Li and Mint Kansinee who have invested their time in improving this project.
