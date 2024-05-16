@@ -3,8 +3,11 @@ This project leverages machine learning to enhance delivery time predictions wit
 
 ## Visualization & Insight in Tableau💐
 To provide insights into delivery times and their influencing factors (such as weather, holidays, and distance) in Brazil's e-commerce.
-![Tableau_2](Tableau_2.png)
+
 Tableau Public Dashboard: https://public.tableau.com/app/profile/libing.gu/viz/OptiDeliverE-commerceDeliveryTimeAnalysis/E-commerceDeliveryTimeAnalysisandPrediction?publish=yes
+
+![Tableau1](Tableau1.png)
+![Tableau2](Tableau2.png)
 
 ## Workflow🌪️
 ![Workflow](Workflow.png)
