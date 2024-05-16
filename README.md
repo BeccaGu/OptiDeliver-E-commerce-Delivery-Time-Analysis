@@ -10,6 +10,13 @@ Tableau Public Dashboard: https://public.tableau.com/app/profile/libing.gu/viz/O
 ![Tableau2](Tableau2.png)
 
 ## Workflow🌪️
+![Workflow](Workflow.png)
+
+## Objective🎯
+The goal of this project is to develop a predictive model that uses historical order data along with external factors such as weather conditions and public holidays to address the issue of unpredictable delivery times, thereby enhancing customer satisfaction and operational efficiency.
+
+## Models Evaluated⚖️
+![result](result.png)
 
 - **Random Forest** : The most effective model, achieving an accuracy of **96.63%** and an AUC of **0.59**.
 - Logistic Regression
